@@ -1,0 +1,36 @@
+E:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\Core.deps.json
+E:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\Core.dll
+E:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\ref\Core.dll
+E:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\Core.pdb
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.dll
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\ref\Core.dll
+E:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.pdb
+F:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\Core.deps.json
+F:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\Core.dll
+F:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\ref\Core.dll
+F:\My Projects\Project Angular plus .net Core\skinet\Core\bin\Debug\net5.0\Core.pdb
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.dll
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\ref\Core.dll
+F:\My Projects\Project Angular plus .net Core\skinet\Core\obj\Debug\net5.0\Core.pdb
+F:\EcommerceWebsite\skinet\Core\bin\Debug\net5.0\Core.deps.json
+F:\EcommerceWebsite\skinet\Core\bin\Debug\net5.0\Core.dll
+F:\EcommerceWebsite\skinet\Core\bin\Debug\net5.0\ref\Core.dll
+F:\EcommerceWebsite\skinet\Core\bin\Debug\net5.0\Core.pdb
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\Core.dll
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\ref\Core.dll
+F:\EcommerceWebsite\skinet\Core\obj\Debug\net5.0\Core.pdb
